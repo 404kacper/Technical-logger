@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://kacper123:kacper123@cluster0-zutsh.mongodb.net/it_logger_db?retryWrites=true&w=majority"
+}
