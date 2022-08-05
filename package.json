@@ -16,7 +16,7 @@
   "dependencies": {
     "config": "^3.2.0",
     "express": "^4.17.1",
-    "mongoose": "^5.6.4"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "concurrently": "^4.1.1",
